@@ -1,0 +1,30 @@
+# Brain Tumor Detection - YOLOv12 Dataset Configuration
+# VIT Bhopal University | CSE (Health Informatics) | 2025
+
+# Dataset paths (update these to match your local directory structure)
+path: /datasets/brain_tumor          # Root dataset directory
+train: /datasets/brain_tumor/train/images
+val:   /datasets/brain_tumor/val/images
+test:  /datasets/brain_tumor/test/images
+
+# Number of classes
+nc: 4
+
+# Class names
+names:
+  0: glioma
+  1: meningioma
+  2: pituitary
+  3: no_tumor
+
+# Dataset Info (for reference)
+# Total Images: ~7,023 MRI scans (before augmentation)
+# Source: Kaggle - BrainTumorYolov11 dataset
+# Annotation Format: YOLO bounding box format (.txt)
+# Image Size: 640x640 (resized during training)
+#
+# Class Distribution (approximate, before augmentation):
+#   glioma:      ~1,000 images
+#   meningioma:  ~503  images
+#   pituitary:   ~658  images
+#   no_tumor:    ~500  images
