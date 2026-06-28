@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv12](https://img.shields.io/badge/Model-YOLOv12-orange?style=for-the-badge&logo=pytorch&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Google%20Colab-yellow?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Google%20Colab-skyblue?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
