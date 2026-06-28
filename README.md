@@ -78,3 +78,11 @@ brain-tumor-yolov12/
 ```
 
 ---
+
+<div align="center">
+
+Developed as part of academic coursework  
+VIT Bhopal University
+
+</div>
+
