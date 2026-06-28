@@ -1,8 +1,5 @@
 # 🧠 Automated Brain Tumor Detection & Localization — YOLOv12
 
-> **VIT Bhopal University | B.Tech CSE (Health Informatics) | September 2025**  
-> Guide: Dr. J. Subash Chandra Bose, Senior Associate Professor, SCAI
-
 ---
 
 ## Overview
@@ -81,13 +78,3 @@ brain-tumor-yolov12/
 ```
 
 ---
-
-## Team
-
-| Name | Roll No |
-|------|---------|
-| Sumit Kumar Chandwani | 24BHI10026 |
-| Ankush Das | 24BHI10047 |
-| Uttakarsh Singh | 24BHI10008 |
-| Rishabh Singh | 24BHI10101 |
-| Arth Raj | 24BHI10094 |
