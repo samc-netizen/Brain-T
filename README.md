@@ -11,9 +11,9 @@
 
 ---
 
-| Author | Course |
-|--------|--------|
-| *(Your Name)* | *(Your Course)* |
+| Author |
+|--------|
+| Sumit Kumar Chandwani |
 
 </div>
 
